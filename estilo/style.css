@@ -75,11 +75,11 @@ div.campo > label {
     display: none;
 }
 
-div.campo > i {
+div.campo > span {
     color: white;
-    font-size: 2em;
+   /* font-size: 2em;
     width: 40px;
-    padding: 5px;
+    padding: 5px; */
 }
 
 div.campo > input {
